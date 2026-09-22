@@ -117,6 +117,8 @@ A customer calls a support line and has a long, helpful conversation — not rea
 ## Diagram outlining the various measures you can implement to address the core dimensions of responsible AI
 ![Diagram outlining the various measures you can implement to address the core dimensions of responsible AI](/image1.png)
 
+for more insights read: [Blog]([Considerations for addressing the core dimensions of responsible AI for Amazon Bedrock applications](https://aws.amazon.com/blogs/machine-learning/considerations-for-addressing-the-core-dimensions-of-responsible-ai-for-amazon-bedrock-applications/))
+
 ---
 
 ## Announcing the AWS Well-Architected Responsible AI Lens 
