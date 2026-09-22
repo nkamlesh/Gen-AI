@@ -114,6 +114,11 @@ A customer calls a support line and has a long, helpful conversation — not rea
 
 ---
 
+## Diagram outlining the various measures you can implement to address the core dimensions of responsible AI
+![Diagram outlining the various measures you can implement to address the core dimensions of responsible AI](/image1.png)
+
+---
+
 ## Announcing the AWS Well-Architected Responsible AI Lens 
 Blog: [AWS Well-Architected Responsible AI Lens](https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-well-architected-responsible-ai-lens/)
 
