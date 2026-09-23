@@ -114,6 +114,15 @@ A customer calls a support line and has a long, helpful conversation — not rea
 
 ---
 
+## Embedding Generator online tool
+- [Tool 1](https://toolswallet.dev/embedding-tool) - show similarity with different sentences
+
+- [Tool 2](https://taubyte.com/tools/embedder) - show embedding with different model
+
+- [Tool 3](https://platform.openai.com/tokenizer) - - Tokenizer Learn about language model tokenization
+
+---
+
 ## Diagram outlining the various measures you can implement to address the core dimensions of responsible AI
 ![Diagram outlining the various measures you can implement to address the core dimensions of responsible AI](/image1.png)
 
