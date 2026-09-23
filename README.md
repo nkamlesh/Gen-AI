@@ -119,7 +119,7 @@ A customer calls a support line and has a long, helpful conversation — not rea
 
 - [Tool 2](https://taubyte.com/tools/embedder) - show embedding with different model
 
-- [Tool 3](https://platform.openai.com/tokenizer) - - Tokenizer Learn about language model tokenization
+- [Tool 3](https://platform.openai.com/tokenizer) - Tokenizer Learn about language model tokenization
 
 ---
 
