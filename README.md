@@ -325,6 +325,17 @@ then give me a final day-by-day plan.
 - [ ] Ask audience: "Which prompt style would you use for [their own task]?"
 
 ---
+
+## AWS Services in Scope by Compliance Program
+[list of programs e.g HIPAA, PCI etc](https://aws.amazon.com/compliance/services-in-scope/)
+
+[HIPAA Eligible Services](https://aws.amazon.com/compliance/hipaa-eligible-services-reference/)
+
+[Payment Card Industry Standards](https://aws.amazon.com/compliance/services-in-scope/PCI/)
+
+---
+
+---
 ## Responsible Use of AI Guide
 [Responsible Use of AI Guide](https://d1.awsstatic.com/products/generative-ai/responsbile-ai/AWS-Responsible-Use-of-AI-Guide-Final.pdf)
 ---
