@@ -325,4 +325,7 @@ then give me a final day-by-day plan.
 - [ ] Ask audience: "Which prompt style would you use for [their own task]?"
 
 ---
+## Responsible Use of AI Guide
+[Responsible Use of AI Guide](https://d1.awsstatic.com/products/generative-ai/responsbile-ai/AWS-Responsible-Use-of-AI-Guide-Final.pdf)
+---
 
